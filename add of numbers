@@ -10,4 +10,8 @@ public class AddTwoNumbers {
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 }
+<<<<<<< HEAD
 Harshitha
+=======
+sirisha...
+>>>>>>> 7a35f2c29fe646b52f67036cd5673a085d6bfa7e
